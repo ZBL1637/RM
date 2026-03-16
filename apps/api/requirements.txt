@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pytest
+httpx
+openpyxl
+python-multipart
+numpy
+scipy
+python-docx
